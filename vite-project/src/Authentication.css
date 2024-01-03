@@ -1,0 +1,17 @@
+.authentication h2 {
+    font-size: 3em;
+    margin-bottom: 0.6em;
+    color: #0f1718;
+  }
+  
+  .authentication p {
+    font-size: 1.4em;
+    margin-bottom: 0.8em;
+    color: #1f2f30;
+  }
+  
+  .authentication h3 {
+    font-size: 1.6em;
+    color: #1f2f30;
+    margin-top: 1em;
+  }
